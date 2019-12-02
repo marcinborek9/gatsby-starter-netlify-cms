@@ -4,7 +4,7 @@ title: About our values
 ---
 ### Shade-grown coffee
 
-DUPA
+DUPA 111111
 
 ### Single origin
 
